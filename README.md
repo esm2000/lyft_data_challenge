@@ -7,6 +7,7 @@
  characteristics in terms of generating revenue, and making actionable
  recommendations for Lyft. The findings and results were generated through
  data analysis and statistical modeling in R and then were drafted into a 
- 5-page write-up.
+ 5-page write-up. Our final ranking was 4th place out of the 150+ teams that 
+ competed from around the United States.
 
  ORIGINAL REPOSITORY: https://github.com/harpreetgaur/lyft-data 
