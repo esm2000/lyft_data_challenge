@@ -1,5 +1,5 @@
 # Lyft Data Challenge
- Participated in the Lyft Data Challenge 2019. The challenge involved
+ Placed in fourth in the 2019 Lyft Data Challenge. The challenge involved
  recommending a Driver Lifetime Value (the value of a driver to Lyft
  over the entire projected lifetime of a driver), finding main factors 
  that affect a driver's lifetime value, determining the average projected
